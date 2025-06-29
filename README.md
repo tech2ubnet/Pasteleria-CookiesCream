@@ -1,6 +1,6 @@
 # Practica HTML - Launch X
 
-Maquetar en HTML como un prototipo una pastelería
+Maquetar en HTML como un prototipo una pastelería del lado del cliente
 
 ## Caso: Pastelería
 Descripción:
@@ -10,6 +10,7 @@ Descripción:
 - El cliente de la pastelería tendrá la posibilidad de combinar adornos dependiendo de sus preferencias.
 - El cliente de la pastelería necesita poner en un formulario su pedido.
 - El formulario debe de contener los datos de contacto del cliente que son Nombre, Teléfono, Correo Electrónico, Descripción general del pastel y la selección de sabores y adornos.
+- La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
 ## Prácticas a Realizar
 Prácticas:
